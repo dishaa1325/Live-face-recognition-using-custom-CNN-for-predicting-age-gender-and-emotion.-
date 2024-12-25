@@ -25,5 +25,5 @@ This project implements a live face recognition system capable of detecting emot
 - VS Code for live demonstration
 ### Steps to run the project
 1. Run the Colab notebook and adjust the epochs, learning rate and other hyperparameters according to the computing resources available to you.
-2. Load .h5 trained model files of all 3 models and update the path in **integration.py**
+2. Load .h5 trained model files of all 3 models and update the path in **integration.py** and run **integration.py** on vs code after installing all the dependencies.
 
