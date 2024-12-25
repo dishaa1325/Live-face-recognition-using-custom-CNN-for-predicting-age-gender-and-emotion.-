@@ -1,6 +1,5 @@
 # Live-face-recognition-using-custom-CNN-for-predicting-age-gender-and-emotion.-
 
-# Live Face Recognition: Age, Gender, and Emotion Detection
 
 ### Overview
 This project implements a live face recognition system capable of detecting emotions, predicting gender, and estimating age simultaneously. It integrates three custom CNN models for real-time performance, demonstrated effectively in a live setup.
