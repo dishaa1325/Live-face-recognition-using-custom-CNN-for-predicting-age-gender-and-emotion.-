@@ -1,4 +1,4 @@
-# Live-face-recognition-using-custom-CNN-for-predicting-age-gender-and-emotion.-
+# Live-face-recognition-using-custom-CNN-for-predicting-age-gender-and-emotion
 
 
 ### Overview
@@ -24,6 +24,6 @@ This project implements a live face recognition system capable of detecting emot
 - OpenCV for live video feed
 - VS Code for live demonstration
 ### Steps to run the project
-1. Colab notebook
-2. Load .h5 files of all 3 models and update the path in **integration.py**
+1. Run the Colab notebook and adjust the epochs, learning rate and other hyperparameters according to the computing resources available to you.
+2. Load .h5 trained model files of all 3 models and update the path in **integration.py**
 
