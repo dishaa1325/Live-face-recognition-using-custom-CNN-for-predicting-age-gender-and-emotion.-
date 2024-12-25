@@ -23,4 +23,7 @@ This project implements a live face recognition system capable of detecting emot
 - Python, TensorFlow/Keras
 - OpenCV for live video feed
 - VS Code for live demonstration
+### Steps to run the project
+1. Colab notebook
+2. Load .h5 files of all 3 models and update the path in **integration.py**
 
